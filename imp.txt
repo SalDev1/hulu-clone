@@ -1,0 +1,18 @@
+Just in time complier
+
+
+Environment variables === are private variables 
+For eg:- If you want to store your API key and don't wanna show to the other people
+This comes in handy.
+
+When we are working with React ==> we deploy the entire react bundle to the website
+When the user logs in the website , the entire javascript is shown to the user.
+
+For the NEXT.JS
+User comes to my website ==> makes a REQUEST Page ===> user will get the final rendered page 
+SERVER-SIDE RENDERING COMES INTO PLAY
+
+Imp stuff required to write down the code:
+
+What url did the user came down to our website.
+It renders on the server and it generates all the data that we need
